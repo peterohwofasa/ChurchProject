@@ -1,4 +1,4 @@
-package za.co.fanoministries.people;
+package za.co.fanoministries.people.person;
 
     public abstract  class Person{
 
